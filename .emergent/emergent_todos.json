@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Phase 1: Import repo (assets + components) into /app and adapt to CRA",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Port Express backend to FastAPI with identical API contract (DB BERKAHUSDT)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Fix hardcoded localhost:5000 -> REACT_APP_BACKEND_URL, Tailwind v4->v3",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Smoke test (login, rates, popups, testimonials, landing render)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: New backend modules (galeri, sosmed, CMS, networks/fee, chart settings, API health, DB manager, container monitoring)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Admin panel new sections UI (Galeri, Sosmed, Tampilan Utama, API Health, Grafik, Bank/Fee, DB Manager, 2FA)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Landing 5-scene GSAP choreography + Social & Networks sections + calculator fee/network/Telegram CTA",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 3: End-to-end testing with testing agent + fixes",
+    "status": "in_progress"
+  }
+]
