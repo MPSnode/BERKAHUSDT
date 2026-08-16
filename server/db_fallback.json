@@ -1,0 +1,703 @@
+{
+  "adminUser": {
+    "_id": "6a7c2336f0d995d63ca81803",
+    "username": "admin12",
+    "password": "admin12",
+    "google2faEnabled": true,
+    "google2faSecret": "JBSWY3DPEHPK3PXP",
+    "sessionTimeout": "24 Hours",
+    "ipWhitelist": "",
+    "loginAlerts": true,
+    "__v": 0
+  },
+  "logos": {
+    "brandNavbar": {
+      "name": "Logo Brand Navbar & Footer",
+      "path": "/logo_berkah.jpg",
+      "location": "Header Navbar & Footer Website"
+    },
+    "coinFront": {
+      "name": "Logo Medallion Koin 3D Depan",
+      "path": "/coin_front.png",
+      "location": "Koin 3D Utama (Sisi Depan)"
+    },
+    "coinBack": {
+      "name": "Logo Medallion Koin 3D Belakang",
+      "path": "/coin_back.png",
+      "location": "Koin 3D Utama (Sisi Belakang)"
+    },
+    "coinShib": {
+      "name": "Logo Shiba Inu (SHIB)",
+      "path": "/coin_shib.png",
+      "location": "Orbiting Koin 3D Crypto (Shiba Inu)"
+    },
+    "favicon": {
+      "name": "Favicon Browser Website",
+      "path": "/favicon.svg",
+      "location": "Tab Browser & Bookmark Icon"
+    }
+  },
+  "logoLogs": [
+    {
+      "id": "LOG-L928",
+      "assetKey": "brandNavbar",
+      "assetName": "Logo Brand Navbar & Footer",
+      "location": "Header Navbar & Footer Website",
+      "action": "RESET",
+      "oldPath": "/logo_berkah.jpg",
+      "newPath": "/logo_berkah.jpg",
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:49:42.449Z"
+    },
+    {
+      "id": "LOG-L146",
+      "assetKey": "brandNavbar",
+      "assetName": "Logo Brand Navbar & Footer",
+      "location": "Header Navbar & Footer Website",
+      "action": "RESET",
+      "oldPath": "data:image/png;base64,iVBORw0KGgoAAAANSU... (Base64)",
+      "newPath": "/logo_berkah.jpg",
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:49:39.308Z"
+    },
+    {
+      "id": "LOG-L520",
+      "assetKey": "brandNavbar",
+      "assetName": "Logo Brand Navbar & Footer",
+      "location": "Header Navbar & Footer Website",
+      "action": "UPDATE_LOGO",
+      "oldPath": "data:image/png;base64,iVBORw0KGgoAAAANSU... (Base64)",
+      "newPath": "data:image/png;base64,iVBORw0KGgoAAAANSU... (Base64)",
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:49:17.646Z"
+    },
+    {
+      "id": "LOG-L379",
+      "assetKey": "brandNavbar",
+      "assetName": "Logo Brand Navbar & Footer",
+      "location": "Header Navbar & Footer Website",
+      "action": "UPDATE_LOGO",
+      "oldPath": "/logo_berkah.jpg",
+      "newPath": "data:image/png;base64,iVBORw0KGgoAAAANSU... (Base64)",
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:49:16.119Z"
+    }
+  ],
+  "rates": {
+    "buyRate": 18400,
+    "sellRate": 17400,
+    "minUsdt": 10,
+    "updatedAt": "2026-08-16T14:03:50.960Z"
+  },
+  "rateLogs": [
+    {
+      "id": "LOG-339",
+      "type": "RATE_JUAL",
+      "oldRate": 17200,
+      "newRate": 17400,
+      "change": 200,
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:50.960Z"
+    },
+    {
+      "id": "LOG-500",
+      "type": "RATE_BELI",
+      "oldRate": 18100,
+      "newRate": 18400,
+      "change": 300,
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:49:00.723Z"
+    },
+    {
+      "id": "LOG-623",
+      "type": "RATE_JUAL",
+      "oldRate": 17100,
+      "newRate": 17200,
+      "change": 100,
+      "adminUser": "admin",
+      "timestamp": "2026-08-13T18:48:48.666Z"
+    }
+  ],
+  "orders": [],
+  "visitorLogs": [
+    {
+      "id": "VIS-2954",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:42:35.231Z"
+    },
+    {
+      "id": "VIS-8302",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T14:42:09.332Z"
+    },
+    {
+      "id": "VIS-1409",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:39:22.272Z"
+    },
+    {
+      "id": "VIS-6999",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T14:38:30.394Z"
+    },
+    {
+      "id": "VIS-5526",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T14:30:55.381Z"
+    },
+    {
+      "id": "VIS-2251",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T14:18:59.414Z"
+    },
+    {
+      "id": "VIS-3952",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:18:53.507Z"
+    },
+    {
+      "id": "VIS-2770",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:17:53.245Z"
+    },
+    {
+      "id": "VIS-7864",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:12:38.246Z"
+    },
+    {
+      "id": "VIS-2063",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T14:03:54.152Z"
+    },
+    {
+      "id": "VIS-7504",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:01:58.895Z"
+    },
+    {
+      "id": "VIS-9477",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T14:00:10.225Z"
+    },
+    {
+      "id": "VIS-4029",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T13:58:26.048Z"
+    },
+    {
+      "id": "VIS-1613",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin",
+      "timestamp": "2026-08-16T13:50:37.130Z"
+    },
+    {
+      "id": "VIS-6633",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T13:46:11.998Z"
+    },
+    {
+      "id": "VIS-3773",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T13:46:11.984Z"
+    },
+    {
+      "id": "VIS-6328",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T13:32:01.687Z"
+    },
+    {
+      "id": "VIS-7690",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T13:25:29.017Z"
+    },
+    {
+      "id": "VIS-8271",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T13:25:29.031Z"
+    },
+    {
+      "id": "VIS-6475",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T13:10:11.506Z"
+    },
+    {
+      "id": "VIS-5631",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T12:59:40.577Z"
+    },
+    {
+      "id": "VIS-2020",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-16T12:59:35.749Z"
+    },
+    {
+      "id": "VIS-1969",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-16T12:59:20.774Z"
+    },
+    {
+      "id": "VIS-2620",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T19:19:52.267Z"
+    },
+    {
+      "id": "VIS-4478",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T19:19:52.266Z"
+    },
+    {
+      "id": "VIS-2108",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-13T19:12:54.651Z"
+    },
+    {
+      "id": "VIS-9750",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-13T19:10:08.349Z"
+    },
+    {
+      "id": "VIS-8673",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin",
+      "timestamp": "2026-08-13T18:49:44.529Z"
+    },
+    {
+      "id": "VIS-7377",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin",
+      "timestamp": "2026-08-13T18:49:44.523Z"
+    },
+    {
+      "id": "VIS-2396",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-13T18:49:20.990Z"
+    },
+    {
+      "id": "VIS-8274",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin",
+      "timestamp": "2026-08-13T18:48:20.177Z"
+    },
+    {
+      "id": "VIS-9151",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin",
+      "timestamp": "2026-08-13T18:48:20.175Z"
+    },
+    {
+      "id": "VIS-3964",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/",
+      "timestamp": "2026-08-13T18:48:04.016Z"
+    },
+    {
+      "id": "VIS-9320",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T11:56:09.730Z"
+    },
+    {
+      "id": "VIS-6451",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T11:55:06.348Z"
+    },
+    {
+      "id": "VIS-4517",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T11:55:06.345Z"
+    },
+    {
+      "id": "VIS-7294",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T07:03:45.220Z"
+    },
+    {
+      "id": "VIS-2024",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T07:03:45.230Z"
+    },
+    {
+      "id": "VIS-6975",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T06:00:38.606Z"
+    },
+    {
+      "id": "VIS-7192",
+      "ip": "180.252.10.45",
+      "city": "Jakarta",
+      "country": "Indonesia 🇮🇩",
+      "device": "Desktop Chrome (Windows)",
+      "pageVisited": "/admin/login",
+      "timestamp": "2026-08-13T06:00:38.602Z"
+    }
+  ],
+  "systemLogs": [
+    {
+      "id": "LOG-365108",
+      "category": "UPDATE",
+      "severity": "WARNING",
+      "source": "POPUP_ENGINE",
+      "title": "Pop-Up Banner Dihapus",
+      "message": "Admin menghapus banner pop-up ID: POP-001",
+      "details": "{\"popupId\":\"POP-001\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:42:45.108Z"
+    },
+    {
+      "id": "LOG-673285",
+      "category": "UPDATE",
+      "severity": "WARNING",
+      "source": "POPUP_ENGINE",
+      "title": "Pop-Up Banner Dihapus",
+      "message": "Admin menghapus banner pop-up ID: POP-001",
+      "details": "{\"popupId\":\"POP-001\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:31:13.285Z"
+    },
+    {
+      "id": "LOG-670754",
+      "category": "UPDATE",
+      "severity": "WARNING",
+      "source": "POPUP_ENGINE",
+      "title": "Pop-Up Banner Dihapus",
+      "message": "Admin menghapus banner pop-up ID: POP-650453",
+      "details": "{\"popupId\":\"POP-650453\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:31:10.754Z"
+    },
+    {
+      "id": "LOG-667171",
+      "category": "UPDATE",
+      "severity": "SUCCESS",
+      "source": "POPUP_ENGINE",
+      "title": "Status Pop-Up Diubah",
+      "message": "Status tayang Pop-up 'POP-650453' diubah menjadi: NONAKTIF",
+      "details": "{\"popupId\":\"POP-650453\",\"isActive\":false}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:31:07.171Z"
+    },
+    {
+      "id": "LOG-650455",
+      "category": "UPDATE",
+      "severity": "SUCCESS",
+      "source": "POPUP_ENGINE",
+      "title": "Pop-Up Banner Baru Dibuat",
+      "message": "Admin membuat banner pop-up '🔥 PROMO RATE SPESIAL OTC BERKAH USDT'",
+      "details": "{\"popupId\":\"POP-650453\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:30:50.455Z"
+    },
+    {
+      "id": "LOG-614414",
+      "category": "UPDATE",
+      "severity": "SUCCESS",
+      "source": "UPLOAD_ENGINE",
+      "title": "Upload Gambar Berhasil",
+      "message": "File gambar 'dd9332e2_0a23_4228_8_614413.png' berhasil diunggah dan disimpan ke server",
+      "details": "{\"filename\":\"dd9332e2_0a23_4228_8_614413.png\",\"url\":\"/uploads/dd9332e2_0a23_4228_8_614413.png\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:30:14.414Z"
+    },
+    {
+      "id": "LOG-966887",
+      "category": "UPDATE",
+      "severity": "SUCCESS",
+      "source": "POPUP_ENGINE",
+      "title": "Status Pop-Up Diubah",
+      "message": "Status tayang Pop-up 'POP-001' diubah menjadi: NONAKTIF",
+      "details": "{\"popupId\":\"POP-001\",\"isActive\":false}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:19:26.887Z"
+    },
+    {
+      "id": "LOG-016991",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:36.991Z"
+    },
+    {
+      "id": "LOG-009336",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:29.336Z"
+    },
+    {
+      "id": "LOG-004623",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:24.623Z"
+    },
+    {
+      "id": "LOG-000904",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:20.904Z"
+    },
+    {
+      "id": "LOG-998835",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:18.835Z"
+    },
+    {
+      "id": "LOG-994962",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:14.963Z"
+    },
+    {
+      "id": "LOG-989038",
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "source": "ADMIN",
+      "title": "Pembersihan Riwayat Log Sistem",
+      "message": "Admin membersihkan log riwayat lama dan mempertahankan 10 log terbaru",
+      "details": "",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:09.038Z"
+    },
+    {
+      "id": "LOG-984761",
+      "category": "ERROR",
+      "severity": "ERROR",
+      "source": "API",
+      "title": "Simulasi HTTP 500 Internal Error (Test)",
+      "message": "Terdeteksi test error simulasi diagnostik log pemantauan server",
+      "details": "{\"code\":\"ERR_SIMULATED_TEST\",\"endpoint\":\"/api/test-error\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:04.761Z"
+    },
+    {
+      "id": "LOG-983063",
+      "category": "ERROR",
+      "severity": "ERROR",
+      "source": "API",
+      "title": "Simulasi HTTP 500 Internal Error (Test)",
+      "message": "Terdeteksi test error simulasi diagnostik log pemantauan server",
+      "details": "{\"code\":\"ERR_SIMULATED_TEST\",\"endpoint\":\"/api/test-error\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:03.063Z"
+    },
+    {
+      "id": "LOG-981659",
+      "category": "WARNING",
+      "severity": "WARNING",
+      "source": "AUTH",
+      "title": "Simulasi Percobaan Akses Tidak Sah (Test)",
+      "message": "Percobaan login dengan kredensial kadaluwarsa terdeteksi",
+      "details": "{\"attempts\":3,\"clientAgent\":\"SecurityTestAgent/1.0\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:03:01.659Z"
+    },
+    {
+      "id": "LOG-978340",
+      "category": "WARNING",
+      "severity": "WARNING",
+      "source": "AUTH",
+      "title": "Simulasi Percobaan Akses Tidak Sah (Test)",
+      "message": "Percobaan login dengan kredensial kadaluwarsa terdeteksi",
+      "details": "{\"attempts\":3,\"clientAgent\":\"SecurityTestAgent/1.0\"}",
+      "ip": "::1",
+      "adminUser": "admin12",
+      "timestamp": "2026-08-16T14:02:58.340Z"
+    }
+  ],
+  "popups": []
+}
